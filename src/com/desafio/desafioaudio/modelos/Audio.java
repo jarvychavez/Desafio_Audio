@@ -11,11 +11,11 @@ public class Audio {
 
     }
 
-    public void reproducciones(){
+    public void reproduce(){
         this.totalDeLasReproducciones++;
     }
 
-    public String getTitulo() {git 
+    public String getTitulo() {
         return titulo;
     }
 

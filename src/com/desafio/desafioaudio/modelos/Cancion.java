@@ -1,6 +1,6 @@
 package com.desafio.desafioaudio.modelos;
 
-public class Canciones extends Audio {
+public class Cancion extends Audio {
     private String album;
     private String cantante;
     private String genero;
